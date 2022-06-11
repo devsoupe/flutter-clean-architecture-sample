@@ -1,0 +1,4 @@
+name: flutter_clean_architecture_sample
+
+packages:
+  - '**'
